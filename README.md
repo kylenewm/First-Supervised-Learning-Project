@@ -2,8 +2,10 @@
 ### Goal: Predicting whether or not a client will subscribe to a term deposit
 ### Problem Type: Binary Classification for Direct Bank Marketing Campaigns
 ### Methods used: 
-1. Min-max normalization to scale features
-2. One-hot encoding to pass
-3. Implementation of Gradient Boosting Algorithm (XGboost)
-4. hyperparemeter optimization with randomized search cross validation
-5. Synthetic Minority Oversampling Technique to balance data
+1. Min-max normalization
+2. One-hot encoding 
+3. Synthetic Minority Oversampling Technique to balance data
+4. Implementation of Gradient Boosting Algorithm (XGboost)
+5. Hyperparemeter optimization with randomized search cross validation
+### Note to reader: 
+I had never used python or modeled anything beyond simple linear regression in R prior to May 2022. Any advice on improving runtime or model metrics would be greatly appreciated. 
