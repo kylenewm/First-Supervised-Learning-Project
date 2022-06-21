@@ -12,4 +12,4 @@
 2. Video explanation of project
 3. README.md
 ### Note to reader: 
-I had never used python or modeled anything beyond simple linear regression in R prior to May 2022. Any advice on improving runtime or model metrics would be greatly appreciated. 
+I had never used python or modeled anything beyond simple linear regression in R prior to May 2022. Any advice on improving runtime or overall model accuracy would be greatly appreciated. 
